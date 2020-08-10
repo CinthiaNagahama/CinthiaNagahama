@@ -1,8 +1,12 @@
 # Cinthia
 
-### Hi there 👋
+### Hey there 👋
 
+I am into technologies and learning new things.
 
+What do I do?
+- I am an undergraduation Computer Science student in 3rd semester.
+- I do lots of random things while I search for what interests me more.
 
 <!--
 **CinthiaNagahama/CinthiaNagahama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
