@@ -5,7 +5,8 @@
 I am into technologies and learning new things.
 
 What do I do?
-- I am an undergraduation Computer Science student in 3rd semester.
+- I am an undergraduate student.
+- I am currently studying Computer Science in IFB.
 - I do lots of random things while I search for what interests me more.
 
 <!--
