@@ -5,9 +5,7 @@
 I am into technologies and learning new things.
 
 What do I do?
-- I am an undergraduate student.
-- I am currently studying Computer Science in IFB.
-- I do lots of random things while I search for what interests me more.
+- I am currently learning React Native and PWA while trying to not fail anything in college
 
 <!--
 **CinthiaNagahama/CinthiaNagahama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
