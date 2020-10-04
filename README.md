@@ -2,10 +2,8 @@
 
 ### Hey there 👋
 
-I am into technologies and learning new things.
-
 What do I do?
-- I am currently learning React Native and PWA while trying to not fail anything in college
+- I am currently learning React Native and PWA while trying not to fail anything in college
 
 <!--
 **CinthiaNagahama/CinthiaNagahama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
