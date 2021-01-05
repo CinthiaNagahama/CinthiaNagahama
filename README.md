@@ -2,9 +2,6 @@
 
 ### Hey there 👋
 
-What do I do?
-- I am currently learning React Native and PWA while trying not to fail anything in college
-
 <!--
 **CinthiaNagahama/CinthiaNagahama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
