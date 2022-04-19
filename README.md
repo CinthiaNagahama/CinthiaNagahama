@@ -1,18 +1,12 @@
-# Cinthia
+## Hi, I'm Cinthia 💜
 
-### Hey there 👋
+- 🤔 &nbsp; I love learning about new things
+- 🎓 &nbsp; I am an undergraduate student in Computer Science
+- 🌱 &nbsp; I'm focusing my studies in learning more about Data Science and CyberSec
 
-<!--
-**CinthiaNagahama/CinthiaNagahama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![card](https://github-readme-stats.vercel.app/api?username=CinthiaNagahama&theme=dracula&show_icons=true)](https://github.com/iuricode/)
 
-Here are some ideas to get you started:
+## Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cinthia-ungefehr-053898146/)](https://www.linkedin.com/in/cinthia-ungefehr-053898146/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ciin.nagahama@gmail.com)](mailto:ciin.nagahama@gmail.com)
