@@ -1,8 +1,8 @@
 ## Hi, I'm Cinthia 💜
 
 - 🤔 &nbsp; I love learning about new things
-- 🎓 &nbsp; I am an undergraduate student in Computer Science
-- 🌱 &nbsp; I'm focusing my studies in learning more about Data Science and CyberSec
+- 🎓 &nbsp; I am a Computer Science focusing in Data Science
+- 🌱 &nbsp; I also enjoy learning about CyberSecurity
 
 [![card](https://github-readme-stats.vercel.app/api?username=CinthiaNagahama&theme=dracula&show_icons=true)](https://github.com/iuricode/)
 
